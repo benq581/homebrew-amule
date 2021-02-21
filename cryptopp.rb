@@ -1,9 +1,9 @@
 class Cryptopp < Formula
   desc "Free C++ class library of cryptographic schemes"
   homepage "https://www.cryptopp.com/"
-  url "https://www.cryptopp.com/cryptopp820.zip"
-  version "8.2.0"
-  sha256 "03f0e2242e11b9d19b28d0ec5a3fa8ed5cc7b27640e6bed365744f593e858058"
+  url "https://www.cryptopp.com/cryptopp840.zip"
+  version "8.4.0"
+  sha256 "c0f5e5cd2c693c8160e9c51666e95949a1c19fd4fe4fef874af2ec1e42757b9a"
  
   # https://cryptopp.com/wiki/Config.h#Options_and_Defines
 
